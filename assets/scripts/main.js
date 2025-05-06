@@ -122,5 +122,5 @@ function initFormHandler() {
 				main.innerHTML = "";
 			}
 		})
-	}
+	} 
 }   
